@@ -20,5 +20,4 @@ There are some compilation issues due to the library that are required from the 
 * Depending on the updates of your OS, some compilation flags may not be supported, in particular the debug ones, thus avoid to enable them in such situation.
 
 ## EquinixChicago dataset
-The link to download the EquinixChicago dataset will be provided ASAP.
- 
+In [this folder](https://drive.google.com/drive/folders/1HXMEO4wwMOT1H9icwiP6siQTp2sm5pgA) you can find the link to the EquinixChicago dataset used in our publication, please read carefully the README file!
